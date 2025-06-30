@@ -1,26 +1,26 @@
 # Proyecto Diplomado
 
 ### 1. Clonar el Proyecto
-''' bash
+'''bash
 git clone https://github.com/econdec/diplomado.git
 '''
 ### 2. Instalar dependencias
-´´´ bash
+´´´bash
 npm install
 ´´´
 
 ### 3. Copiar variables de entorno y configurar
-´´´ bash
+´´´bash
 cp .env.sample .env
 ´´´
 
 ### 4. Levantar el proyecto
 #### 4.1 En desarollo
-´´´ bash
+´´´bash
 npm run dev
 ´´´
 
 #### 4.1 En producción
-´´´ bash
+´´´bash
 npm run start
 ´´´
